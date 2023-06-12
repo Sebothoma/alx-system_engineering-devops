@@ -1,2 +1,2 @@
 #!/bin/bash
-trail-n10 /etc/passwd
+trail /etc/passwd
